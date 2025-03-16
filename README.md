@@ -1,6 +1,6 @@
 # Arzaq
 
-![Logo](ui/logo.png)
+<img src="ui/logo.png" width="200" alt="Logo">
 
 *Yet another e-commerce attempt nobody asked for.*
 
